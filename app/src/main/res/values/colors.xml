@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#C2C0C6</color>
+    <color name="colorPrimaryDark">#BDBDBD</color>
+    <color name="colorAccent">#2B2727</color>
+
+    <color name="header_back">#F4F4F4</color>
+    <color name="header_text">#141414</color>
+    <color name="header_shape">#A2A2A2</color>
+
+    <color name="outline_color">#CCCCCC</color>
+    <color name="outline_back">#FFFFFF</color>
+
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="back_save">#3CE443</color>
+    <color name="back_delete">#F96335</color>
+    <color name="light_grey" >#9F9F9F</color>
+    <color name="line_color">#EAEAEA</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#9F9F9F</color>
+
+    <!--    news image background colors -->
+    <color name="purple">#905EE8</color>
+    <color name="red">#F96335</color>
+    <color name="black">#1E1E1E</color>
+    <color name="blue">#008DFC</color>
+    <color name="yellow">#FED149</color>
+
+
+</resources>
