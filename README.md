@@ -31,6 +31,8 @@ Kullanıcı uygulama içerisinde saklamak istediği notu fotoğrafı ile beraber
 <img src="https://github.com/birincioglu1/NoteBook/blob/master/app/src/main/res/drawable-mdpi/screen_list.png" width="400" height="700"><br/><br/>
 > Add Note<br/><br/>
 <img src="https://github.com/birincioglu1/NoteBook/blob/master/app/src/main/res/drawable-mdpi/screen_add.png" width="400" height="700"><br/><br/>
+> Search Node<br/><br/>
+<img src="https://github.com/birincioglu1/NoteBook/blob/master/app/src/main/res/drawable-mdpi/screen_search.png" width="400" height="700"><br/><br/>
 > Note Detail<br/><br/>
 <img src="https://github.com/birincioglu1/NoteBook/blob/master/app/src/main/res/drawable-mdpi/screen_detail.png" width="400" height="700">
 
